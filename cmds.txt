@@ -1,0 +1,9 @@
+Needing to master command line to help in being more proficient in DatSci.
+
+#### The basic commands
+
+*cd <directory>*
+change directory
+
+*cd ..*
+move up directory
