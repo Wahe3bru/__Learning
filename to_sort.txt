@@ -1,0 +1,8 @@
+https://github.com/datasciencemasters
+
+Intro to Data Science - Bill Howe (UW)
+>>lectures
+>>https://www.youtube.com/playlist?list=PLfF9FGsj0cVQuQUd0RIt0S41UeJFjAPiZ
+>>
+>>assignments
+>>https://github.com/uwescience/datasci_course_materials
