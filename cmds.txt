@@ -6,4 +6,18 @@ Needing to master command line to help in being more proficient in DatSci.
 
 `cd ..` move up directory
 
-`ls` list contents of directory
+`cd/` Root of drive
+
+`cd ~` home directory
+
+`ls`  short list contents of directory
+
+`ls -l` long listing
+
+`ls -a` list contents including hidden files
+
+`ls -lh` long listing with Human readable file sizes
+
+`ls -R` entire contents of directory (recursively)
+
+`clear` clears the screen
