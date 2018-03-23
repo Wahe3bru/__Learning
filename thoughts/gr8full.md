@@ -25,4 +25,10 @@
 
 ---
 ### Friday 23 March 005
+- watched the last jedi with Ruby and Ani.
+- got early to mosque to listen to an interesting lecture
+- Rhiede gave me his quarter tikka chicken so i didn't have to go out of my way to buy something to eat.
+
+---
+### Saturday 24 March 006
 -

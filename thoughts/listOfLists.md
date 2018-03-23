@@ -1,22 +1,34 @@
-Lists:
+index
+---
+Things I have learned
+- [Statistics]()
 
-Things i have learned
+Things I need to learn
+- [GitHub]()
 
+- [SciPy]()
+
+- [Python]()
 
 ---
-Things i need to learn
+## Things i have learned
 
-[GitHub]()
-
-[SciPy]()
-
----
-GitHub
-
-[ ] learn to link between repos
+#### Statistics
+- summary statistics
 
 ---
-SciPy
+## Things i need to learn
+
+#### GitHub
+
+- [ ] learn to link between repos
+
+---
+#### SciPy
 - [scipy-lectures](http://www.scipy-lectures.org/packages/statistics/index.html)
+
+---
+#### Python
+- [ ] Generators
 
 ---
