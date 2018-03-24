@@ -18,17 +18,23 @@
 - the look on Ruby's face when she realised we saw the following episode on at the movies, and then when she heard that there were 6 previous films!!
 
 ---
-### Thursday 22 March 004
+### Thursday 22 March 004 :girl: :girl:
 - i just marvel at the interaction of the twins.
 - i got a great resource to improve my learning of stats and by extension datsci
-- even though i don't feel great, luckily i don't hve the nausea and the headaches are a lot less intense
+- even though i don't feel great, luckily i don't have the nausea and the headaches are a lot less intense
 
 ---
-### Friday 23 March 005
+### Friday 23 March 005 :star:
 - watched the last jedi with Ruby and Ani.
 - got early to mosque to listen to an interesting lecture
 - Rhiede gave me his quarter tikka chicken so i didn't have to go out of my way to buy something to eat.
 
 ---
-### Saturday 24 March 006
+### Saturday 24 March 006 :wedding:
+- tummy feeling so much better, headaches gotten more manageable
+- got just over 8 hours of sleep!
+- children were well behaved and the event was super easy
+
+---
+### SUNDAY 25 MARCH 007 :gun:
 -
