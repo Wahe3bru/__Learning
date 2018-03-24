@@ -1,1 +1,3 @@
-[ ] link Learning/Projects to /Projects
+- [ ] link Learning/Projects to /Projects
+- [ ] ThinkStats2 chapter3 exercise
+- [ ] expand pig_latin exercise to include coding a sentence 
