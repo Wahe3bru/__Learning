@@ -36,5 +36,11 @@
 - children were well behaved and the event was super easy
 
 ---
-### SUNDAY 25 MARCH 007 :gun:
--
+### SUNDAY 25 March 007 :gun:
+- had a great sleep
+- spoke to Rayaan and he is enjoying his gift
+- watched Star Wars: a New Hope with the family
+
+---
+### Monday 26 March 008
+- 
