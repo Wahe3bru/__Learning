@@ -43,4 +43,16 @@
 
 ---
 ### Monday 26 March 008
-- 
+- Had a moment with Amber getting her PJs on
+- Lu'Lu wanted me to put her to sleep and she randomly told me she loved me
+- I had  to put off my plans to work to put them to bed
+
+---
+### Tuesday 27 March 009
+- i could work on the dashboard from home
+- went to fetch Ruby at school
+- Ruby and I watched Episode IV during the day :)
+
+---
+### Wednesday 28 March 010
+-
