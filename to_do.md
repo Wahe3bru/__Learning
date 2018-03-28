@@ -1,4 +1,5 @@
 - [ ] link Learning/Projects to /Projects
 - [ ] ThinkStats2 chapter3 exercise
 - [ ] expand pig_latin exercise to include coding a sentence
-- [ ] summarise notes on Scipy.stats 
+- [ ] summarise notes on Scipy.stats
+- [ ] expand count_words to read from text file
