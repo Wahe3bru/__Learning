@@ -54,5 +54,11 @@
 - Ruby and I watched Episode IV during the day :)
 
 ---
-### Wednesday 28 March 010
+### Wednesday 28 March 010 :sushi:
+- got to menan right before it started to rain
+- the lightning is beautiful
+- got home and 30 peice sushi patter was waiting
+
+---
+### Thursday 29 March 011
 -
