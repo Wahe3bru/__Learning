@@ -61,4 +61,6 @@
 
 ---
 ### Thursday 29 March 011
--
+- watched episode VI with Ruby
+- final day with team, presentation and dashboard hand in
+- pretty easy day, had a nice chat with nkosana
