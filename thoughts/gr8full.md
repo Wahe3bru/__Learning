@@ -64,3 +64,13 @@
 - watched episode VI with Ruby
 - final day with team, presentation and dashboard hand in
 - pretty easy day, had a nice chat with nkosana
+
+---
+### Friday 30 March 012
+- had a good nights sleep
+- took the girls to play in the puddles while Anni queued for her race number
+- saw most of the boom manne today.
+
+---
+### Saturday 31 March 014
+-
