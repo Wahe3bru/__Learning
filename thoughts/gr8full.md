@@ -66,11 +66,17 @@
 - pretty easy day, had a nice chat with nkosana
 
 ---
-### Friday 30 March 012
+### Friday 30 March 012 :cloud:
 - had a good nights sleep
 - took the girls to play in the puddles while Anni queued for her race number
 - saw most of the boom manne today.
 
 ---
-### Saturday 31 March 014
--
+### Saturday 31 March 014 :curry:
+- build puzzles with the kids
+- girls enjoy watching FMA:Brotherhood, especially Lu'Lu
+- Rhiede made curry kitchery for supper
+
+---
+### Sunday 1 April 015
+- 
