@@ -3,7 +3,8 @@
 
 [Hobbies](#Hobbies)
 
-## Work <a id='Work'> </a>
+## Work
+<a id='Work'> </a>
 
 - [ ] link Learning/Projects to /Projects
 - [ ] ThinkStats2 chapter3 exercise
@@ -18,6 +19,7 @@
 ---
 ## Hobbies
 <a id='Hobbies'></a>
+
 - [ ] raspi bootup send ip
 - - https://gist.github.com/johnantoni/8199088
 - -  https://blog.iamlevi.net/2017/01/send-raspberry-pi-ip-address-gmail-boot/

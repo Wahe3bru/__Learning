@@ -79,4 +79,10 @@
 
 ---
 ### Sunday 1 April 015
-- 
+- I have no deficit sleep for the year :)
+- it was a pretty chilled day at home
+- no fights with any of the kiddies
+
+---
+### Monday 2 April 016
+-
