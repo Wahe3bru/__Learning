@@ -84,5 +84,11 @@
 - no fights with any of the kiddies
 
 ---
-### Monday 2 April 016
+### Monday 2 April 016 :run: 
+- finished dataCamp course with minimal interuptions
+- girls behaved at the movies
+- had a lovely run to oppelskoprug with Nick and Shafeeqs
+
+---
+### Tuesday 3 April 017
 -
