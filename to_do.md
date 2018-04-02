@@ -1,8 +1,9 @@
 # To Do :notebook:
-[Work](#Work)
+ - [Work](#Work)
 
-[Hobbies](#Hobbies)
+ - [Hobbies](#Hobbies)
 
+---
 ## Work
 <a id='Work'> </a>
 
