@@ -96,5 +96,11 @@
 - completed the short form 4 times in class
 
 ---
-### Wednesday 4 April 018
--
+### Wednesday 4 April 018 :running:
+- morning trail run with the crew
+- found a useful stats site
+- Amber painted a really adv self portrait
+
+---
+### Thursday 5 April 019
+- 
