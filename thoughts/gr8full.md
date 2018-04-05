@@ -103,4 +103,10 @@
 
 ---
 ### Thursday 5 April 019
-- 
+- saw an old friend
+- met someone new
+- helped out at the orphanage
+
+---
+### Friday 6 April 020
+-
