@@ -108,5 +108,7 @@
 - helped out at the orphanage
 
 ---
-### Friday 6 April 020
--
+### Friday 6 April 020 :film:  
+- got a free boerie n coke :)
+- got talked into recording the presentation
+- saw Pacific Rim: Uprising :+1:
