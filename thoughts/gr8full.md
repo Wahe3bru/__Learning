@@ -112,3 +112,13 @@
 - got a free boerie n coke :)
 - got talked into recording the presentation
 - saw Pacific Rim: Uprising :+1:
+
+---
+### Saturday 7 April 021
+- got a morning solo trail run
+- met up with some tronk manne
+- got to share  and inspire a trail run in imam
+
+---
+### Sunday 8 April 022
+-
