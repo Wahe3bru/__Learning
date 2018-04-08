@@ -120,5 +120,7 @@
 - got to share  and inspire a trail run in imam
 
 ---
-### Sunday 8 April 022
--
+### Sunday 8 April 022 :forest:
+- had an interesting dream
+- had a lovely outing in tokai forest
+- had a relaxing conversation while the kids were running around the forest
