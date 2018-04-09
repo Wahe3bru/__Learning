@@ -124,3 +124,13 @@
 - had an interesting dream
 - had a lovely outing in tokai forest
 - had a relaxing conversation while the kids were running around the forest
+
+---
+### Monday 9 April 023
+- got a good team
+- chatted with mama and aunty Ghiekma
+- spent time granny
+
+---
+### Tuesday 10 April 024
+-
