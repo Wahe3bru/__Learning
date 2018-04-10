@@ -133,4 +133,10 @@
 
 ---
 ### Tuesday 10 April 024
+- beat a colleague getting to work car vs bike FTW
+- had a conversation with Anna
+- Ruby really getting the maths conceptives i teach her.
+
+---
+### Wednesday 11 April 025
 -
