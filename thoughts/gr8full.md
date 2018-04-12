@@ -139,4 +139,6 @@
 
 ---
 ### Wednesday 11 April 025
--
+- puncture, had to walk home only from campground road
+- meeting with supervisor, now i know exactly what's expected
+- went to bed early
