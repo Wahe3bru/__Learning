@@ -142,3 +142,13 @@
 - puncture, had to walk home only from campground road
 - meeting with supervisor, now i know exactly what's expected
 - went to bed early
+
+---
+### Thursday 12 April 026
+- Hudaa is showing improvement wrt OT
+- Team coaching session was fun
+- team communication is much better
+
+---
+### Friday 13 April 027
+-
