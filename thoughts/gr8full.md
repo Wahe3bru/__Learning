@@ -151,4 +151,16 @@
 
 ---
 ### Friday 13 April 027
+- Ruby listened to a suggestion of a show and loved it
+- went to the boom
+- gran and Anna enjoying themselves last night with the twins
+
+---
+### Saturday 14 April 028
+- got in a 9km run and knee was good
+- got lost in the forest, but found some cool routes
+- got to do my tai chi
+
+---
+### Sunday 15 April 029
 -
