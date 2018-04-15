@@ -6,3 +6,5 @@ https://github.com/thomas-haslwanter/statsintro_python
 - repo for intro to stats with python with notebooks, slides and code examples
 
 ---
+https://www.cliffsnotes.com/study-guides/statistics/common-mistakes-and-tables/common-mistakes
+- common mistakes, create article and add workarounds esp in python.
