@@ -163,4 +163,10 @@
 
 ---
 ### Sunday 15 April 029
+- easy morning
+- Sunday lunch
+- curry kitchery for supper
+
+---
+### Monday 16 April 030
 -
