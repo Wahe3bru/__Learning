@@ -169,4 +169,10 @@
 
 ---
 ### Monday 16 April 030
+- got some nice commuters along the way
+- really getting into the datsci knowledge
+- homework with Ruby the most productive yet
+
+---
+### Tuesday 17 April 031
 -
