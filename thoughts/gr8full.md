@@ -174,5 +174,11 @@
 - homework with Ruby the most productive yet
 
 ---
-### Tuesday 17 April 031
+### Tuesday 24 April 031
+- Had a good supper
+- ride home was super easy
+- could relax abit before supper
+
+---
+### Wednesday 25 April 032
 -
