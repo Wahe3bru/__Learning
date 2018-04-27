@@ -181,4 +181,22 @@
 
 ---
 ### Wednesday 25 April 032
+- most of the project is done
+- easy commute to the lab
+- supper at moms
+
+---
+### Thursday 26 April 033
+- presentation complete
+- helped a colleague get welding machine
+- got some MK8 time lapse records in
+
+---
+### Friday 27 April 034
+- Jumuah @the boom
+- had some chocolate ice cream
+- read a nice chapter on ML
+
+---
+### Saturday 28 April 035
 -
