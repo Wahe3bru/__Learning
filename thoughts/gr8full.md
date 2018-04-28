@@ -199,4 +199,10 @@
 
 ---
 ### Saturday 28 April 035
+- got some studying done while Ruby at gymnastics
+- spent the day at Science centrewith family
+- visited bro-in-law
+
+---
+### Sunday 29 April 036
 -
