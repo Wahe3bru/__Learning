@@ -200,9 +200,21 @@
 ---
 ### Saturday 28 April 035
 - got some studying done while Ruby at gymnastics
-- spent the day at Science centrewith family
+- spent the day at Science centre with family
 - visited bro-in-law
 
 ---
 ### Sunday 29 April 036
+- got a lot of studying done
+- kids played lovely together
+- had a good sleep
+
+---
+### Monday 30 April 037
+- took Annah to the Doctor
+- Amber woke up in a good mood
+-
+
+---
+### Tuesday
 -
