@@ -216,5 +216,11 @@
 -
 
 ---
-### Tuesday
+### Tuesday 1 May 038
+- got to see old friends
+- helped out an old friend
+- got to the boom early for the lecture
+
+---
+### Wednesday 2 May 039
 -
