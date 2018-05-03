@@ -223,4 +223,16 @@
 
 ---
 ### Wednesday 2 May 039
+- got some artsy stuff for the girls with Ruby
+- taking car of Mik and Dean was easy
+- supper with Valleys
+
+---
+### Thursday 3 May 040
+- finally finished Californication
+- got home safely before the tummy cramps
+- had an easy day
+
+---
+### Friday 4 May 041
 -
