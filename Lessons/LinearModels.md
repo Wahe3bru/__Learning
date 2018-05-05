@@ -57,7 +57,16 @@ Similar to the regression models, it might seem restrictive in lower dimensions 
 ### Linear models for multiclass classification
 Many linear classification models are for binary classification only. A common approach to apply a  binary classification algorhithm to a multiclass algorhithm is the _one vs rest_ approach. In this approach, a binary model is learned for each class that tries to seperate that class from all other classes. which results in as much binary models as there are features. The classifyer with the highest score on its simgle class "wins", and the class label is returned as the predictor.
 ### Strengths, Weakness and Parameters
-
 #### Strengths
+- Fast to predict and train.
+- can scale to large datasets and work well in sparse data
+- relatively easy to understand.
 #### Weakness
+- In lower dimensional spaces other models perform better generalizations.
+- there are assumptions that need to be met for linear regression to predict successfully.
+- - linear relationship
+- - no multicollineararity
+- - errors are homoscedascit
+- - no correlation between features
 #### Parameters
+`alpha` for regression and `C` for LinearSVC and LogisticRegression. large values for `alpha` and small values for `C` mean simpler models. These parameters are usually searched for on a logarithmic scale (10,1,0.1,0.01, etc)
