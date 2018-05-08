@@ -14,3 +14,6 @@ Intro to Data Science - Bill Howe (UW)
 ## NLP
 #### Gensim tuts
 https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md
+
+## Statistics
+https://www.khanacademy.org/math/statistics-probability
