@@ -10,3 +10,7 @@ Intro to Data Science - Bill Howe (UW)
 #### Review in August
 [100 DS Qs](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
 [45 DS Qs](https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/)
+
+## NLP
+#### Gensim tuts
+https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md
