@@ -1,7 +1,7 @@
 # LinearModels
 Linear models make a prediction using a linear function of the input features
 ### Linear models for regression
-The predicted response as a wieghted sum of the input features.
+The predicted response as a weighted sum of the input features.
 The prediction is a line for a single feature, a plane for two features, and a hyperplane for higher dimensions.
 There are strong assumptions, like the target variable is a linear combination of features.
 
@@ -61,6 +61,7 @@ Many linear classification models are for binary classification only. A common a
 - Fast to predict and train.
 - can scale to large datasets and work well in sparse data
 - relatively easy to understand.
+
 #### Weakness
 - In lower dimensional spaces other models perform better generalizations.
 - there are assumptions that need to be met for linear regression to predict successfully.
@@ -68,5 +69,6 @@ Many linear classification models are for binary classification only. A common a
 - - no multicollineararity
 - - errors are homoscedascit
 - - no correlation between features
+
 #### Parameters
 `alpha` for regression and `C` for LinearSVC and LogisticRegression. large values for `alpha` and small values for `C` mean simpler models. These parameters are usually searched for on a logarithmic scale (10,1,0.1,0.01, etc)
