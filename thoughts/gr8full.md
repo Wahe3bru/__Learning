@@ -242,4 +242,10 @@
 
 ---
 ### Tuesday 8 May 042
+- got a lift to EDSA
+- manaTea working goo0od :)
+- very productive day
+
+---
+### Wednesday 9 May 043
 -
