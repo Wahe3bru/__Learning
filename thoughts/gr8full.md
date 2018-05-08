@@ -232,7 +232,14 @@
 - finally finished Californication
 - got home safely before the tummy cramps
 - had an easy day
+---
+#### _Off Sick :(_
+---
+### Monday 7 May 041
+- got caught in minimal rain
+- dropped aunty Biba at GSH
+- car unlocked with no issues
 
 ---
-### Friday 4 May 041
+### Tuesday 8 May 042
 -
