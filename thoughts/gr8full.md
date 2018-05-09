@@ -224,7 +224,7 @@
 ---
 ### Wednesday 2 May 039
 - got some artsy stuff for the girls with Ruby
-- taking car of Mik and Dean was easy
+- taking care of Miki and Dean was easy
 - supper with Valleys
 
 ---
@@ -248,4 +248,10 @@
 
 ---
 ### Wednesday 9 May 043
+- had a great conversations today.
+- Doc visit good, remedy to follow for Ruby
+-
+
+---
+### Thursday 10 May 044
 -
