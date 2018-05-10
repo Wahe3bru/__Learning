@@ -250,8 +250,14 @@
 ### Wednesday 9 May 043
 - had a great conversations today.
 - Doc visit good, remedy to follow for Ruby
--
+- helped mom out
 
 ---
 ### Thursday 10 May 044
--
+- walked Hudaa to school, found out school closed!
+- got alot of studying done
+- learning regex from Colt's Python course, best investment
+
+---
+### Friday 11 May 045
+- 
