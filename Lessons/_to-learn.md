@@ -5,3 +5,6 @@
 - - classification - confusion matrix
 - RegEx
 - NLP
+
+- Time Series
+- - literally a series of articles

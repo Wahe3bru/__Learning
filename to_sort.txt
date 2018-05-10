@@ -1,14 +1,16 @@
+# Sort this shirt Out 
+
 https://github.com/datasciencemasters
 
-Intro to Data Science - Bill Howe (UW)
->>lectures
->>https://www.youtube.com/playlist?list=PLfF9FGsj0cVQuQUd0RIt0S41UeJFjAPiZ
->>
->>assignments
->>https://github.com/uwescience/datasci_course_materials
+### Intro to Data Science - Bill Howe (UW)
+#### [lectures](https://www.youtube.com/playlist?list=PLfF9FGsj0cVQuQUd0RIt0S41UeJFjAPiZ)
 
-#### Review in August
+#### [assignments](https://github.com/uwescience/datasci_course_materials)
+
+## Review in August
+#### Interview Questions:
 [100 DS Qs](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
+
 [45 DS Qs](https://www.analyticsvidhya.com/blog/2016/12/45-questions-to-test-a-data-scientist-on-regression-skill-test-regression-solution/)
 
 ## NLP
@@ -17,3 +19,6 @@ https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md
 
 ## Statistics
 https://www.khanacademy.org/math/statistics-probability
+
+## Time series
+https://www.youtube.com/watch?v=zmfe2RaX-14
