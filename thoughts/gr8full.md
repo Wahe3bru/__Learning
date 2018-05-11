@@ -260,4 +260,10 @@
 
 ---
 ### Friday 11 May 045
-- 
+- had another lekker interaction with colleagues
+- made it to the lab with my slow puncture
+- got a lift most of the way, cycled home in a drizzle
+
+---
+### Saturday 12 May 046
+-
