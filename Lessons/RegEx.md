@@ -1,7 +1,13 @@
 # Regular Expression
 
 ## Basic RegEx
-
+pattern|definition
+---|---
+\d| digit (0-9)
+\w|
+[0-9]|
+[a-z]|
+[A-Z]|
 ## Quantifyers
 
 ## Character Classes and Sets
