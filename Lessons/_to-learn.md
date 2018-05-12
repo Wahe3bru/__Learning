@@ -1,8 +1,17 @@
 # Summaries i have to write
 - ML Models
+- - [x] Ensemble of Decision Trees
+- - [x] Decision Trees
+- - [x] k-Nearest Neighbors
+- - [x] Kernelized SVMs
+- - [x] Linear Models
+- - [ ] Neural Networks (Deep Learning)
+- - [ ] Naive Bayes Classifyers
+- Pipeline and GridSearchCV
+- - k-fold and train, test, split cross validation
 - Metrics
 - - Regression - adj, R^2, MSE, others
-- - classification - confusion matrix
+- - Classification - confusion matrix, accuracy report, ROC, AUC
 - RegEx
 - NLP
 
