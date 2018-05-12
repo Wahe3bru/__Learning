@@ -1,4 +1,4 @@
-# LinearModels
+# Linear Models
 Linear models make a prediction using a linear function of the input features
 ### Linear models for regression
 The predicted response as a weighted sum of the input features.
@@ -43,7 +43,7 @@ print("Number of features used: {}".format(np.sum(lasso.coef_ != 0)))
 ### Linear models for classification
 The formula is very similar to regression, but the prediction is threshold at 0. If the function is _smaller_ than 0 then the prediction is class -1; otherwise if it's _greater_ than 0 the prediction is class +1.
 
-For Linear models for classification, the __decision boundry__ is a linear function of the input. Is seperates classes by a line, plane or hyperplane.
+For Linear models for classification, the __decision boundry__ is a linear function of the input. It separates classes by a line, plane or hyperplane.
 
 The two most common classifiers are _logistic regression_ and _linear support vector machines_
 - `from sklearn.linear_model import LogisticRegression`
@@ -51,11 +51,11 @@ The two most common classifiers are _logistic regression_ and _linear support ve
 
 by default both models apply L2 regularization. The `C` parameter determines the strength of regularization. The higher the values of `C` corresponds to _less_ regularization.
 
-another aspect of `C`; lower values causes the algorhithm to try to fit the _majority_ of data points, while a higher value places importance on each data point.
+another aspect of `C`; lower values causes the algorithm to try to fit the _majority_ of data points, while a higher value places importance on each data point.
 
 Similar to the regression models, it might seem restrictive in lower dimensions but are very powerful in higher dimensions.
 ### Linear models for multiclass classification
-Many linear classification models are for binary classification only. A common approach to apply a  binary classification algorhithm to a multiclass algorhithm is the _one vs rest_ approach. In this approach, a binary model is learned for each class that tries to seperate that class from all other classes. which results in as much binary models as there are features. The classifyer with the highest score on its simgle class "wins", and the class label is returned as the predictor.
+Many linear classification models are for binary classification only. A common approach to apply a  binary classification algorithm to a multiclass algorithm is the _one vs rest_ approach. In this approach, a binary model is learned for each class that tries to separate that class from all other classes. which results in as much binary models as there are features. The classifyer with the highest score on its single class "wins", and the class label is returned as the predictor.
 ### Strengths, Weakness and Parameters
 #### Strengths
 - Fast to predict and train.
@@ -67,7 +67,7 @@ Many linear classification models are for binary classification only. A common a
 - there are assumptions that need to be met for linear regression to predict successfully.
 - - linear relationship
 - - no multicollineararity
-- - errors are homoscedascit
+- - errors are homoscedascity
 - - no correlation between features
 
 #### Parameters
