@@ -6,7 +6,7 @@
 - - [x] Kernelized SVMs
 - - [x] Linear Models
 - - [ ] Neural Networks (Deep Learning)
-- - [ ] Naive Bayes Classifyers
+- - [ ] Naive Bayes Classifiers
 - Pipeline and GridSearchCV
 - - k-fold and train, test, split cross validation
 - Metrics
