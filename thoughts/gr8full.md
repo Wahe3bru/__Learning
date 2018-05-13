@@ -266,4 +266,10 @@
 
 ---
 ### Saturday 12 May 046
+- got some valuable time studying while Ruby at gymnastics
+- headache disappeared during, and got to enjoy kids party
+- got to watch some rugby
+
+---
+### Sunday 13 May 047
 -
