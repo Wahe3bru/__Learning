@@ -278,4 +278,10 @@
 
 ---
 ### Monday 14 May 048
-- 
+- no queue at Traffic Dept
+- back pain somewhat relieved, no drugs
+- help uncle with software
+
+---
+### Tuesday 15 May 049
+-
