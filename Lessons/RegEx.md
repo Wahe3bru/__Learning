@@ -20,6 +20,8 @@ pattern|matches
 {,n}| up to n times
 {m,}| m or more times
 
+Note: adding `?` to either of the quantifiers including `?` makes their preference to less (ie non-greedy)
+
 ## Character Classes and Sets
 pattern|match
 ---|---
