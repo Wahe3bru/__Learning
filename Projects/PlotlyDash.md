@@ -5,6 +5,8 @@
 - - [ ] including subplots
 
 ### Log:
+15/05/17 - 2-01 -> 2-03: Ex1-SimpleDashboard.py
+
 14/05/18 - went over layout, and Dash Components
 
 13/05/18 - 106E -> 109E: completed histogram, heatmap, box and distplots
