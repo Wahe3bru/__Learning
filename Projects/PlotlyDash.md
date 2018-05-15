@@ -5,6 +5,8 @@
 - - [ ] including subplots
 
 ### Log:
+14/05/18 - went over layout, and Dash Components
+
 13/05/18 - 106E -> 109E: completed histogram, heatmap, box and distplots
 
 12/05/18 - 105E: Ex5-Bubblechart.py
