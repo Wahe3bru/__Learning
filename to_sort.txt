@@ -25,3 +25,6 @@ https://www.youtube.com/watch?v=zmfe2RaX-14
 
 ## Pandas
 http://pbpython.com/excel-pandas-comp.html
+
+## Dash
+https://github.com/Acrotrend/awesome-dash
