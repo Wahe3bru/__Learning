@@ -1,4 +1,4 @@
-# Sort this shirt Out 
+# Sort this shirt Out
 
 https://github.com/datasciencemasters
 
@@ -22,3 +22,6 @@ https://www.khanacademy.org/math/statistics-probability
 
 ## Time series
 https://www.youtube.com/watch?v=zmfe2RaX-14
+
+## Pandas
+http://pbpython.com/excel-pandas-comp.html
