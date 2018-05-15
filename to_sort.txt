@@ -1,11 +1,13 @@
 # Sort this shirt Out
 
 https://github.com/datasciencemasters
-
+## Data Science
 ### Intro to Data Science - Bill Howe (UW)
-#### [lectures](https://www.youtube.com/playlist?list=PLfF9FGsj0cVQuQUd0RIt0S41UeJFjAPiZ)
+- [lectures](https://www.youtube.com/playlist?list=PLfF9FGsj0cVQuQUd0RIt0S41UeJFjAPiZ)
+- [assignments](https://github.com/uwescience/datasci_course_materials)
 
-#### [assignments](https://github.com/uwescience/datasci_course_materials)
+#### Algorithms, probability& stats
+https://github.com/zipfian/data_science
 
 ## Review in August
 #### Interview Questions:
@@ -16,6 +18,9 @@ https://github.com/datasciencemasters
 ## NLP
 #### Gensim tuts
 https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md
+
+## Programming exercises
+[100 python exercises](https://github.com/zipfian/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt)
 
 ## Statistics
 https://www.khanacademy.org/math/statistics-probability
@@ -28,3 +33,11 @@ http://pbpython.com/excel-pandas-comp.html
 
 ## Dash
 https://github.com/Acrotrend/awesome-dash
+
+## Git/github
+https://github.com/zipfian/git-it
+
+## Machine Learning
+### Pipelines & FeatureUnion
+http://michelleful.github.io/code-blog/2015/06/20/pipelines/
+https://github.com/zipfian/pipelines_and_featureunions
