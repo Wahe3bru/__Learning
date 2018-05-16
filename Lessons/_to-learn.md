@@ -14,6 +14,6 @@
 - - Classification - confusion matrix, accuracy report, ROC, AUC
 - RegEx
 - NLP
-
+- command line 
 - Time Series
 - - literally a series of articles
