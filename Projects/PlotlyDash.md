@@ -5,7 +5,13 @@
 - - [ ] including subplots
 
 ### Log:
-15/05/17 - 2-01 -> 2-03: Ex1-SimpleDashboard.py
+19/05/18 - 2-10: Ex1-InteractiveComponents
+
+17/05/18 - reviewed interactive components
+
+16/05/18 - review callbacks, multipleInput an mulipleOutputs
+
+15/05/18 - 2-01 -> 2-03: Ex1-SimpleDashboard.py
 
 14/05/18 - went over layout, and Dash Components
 

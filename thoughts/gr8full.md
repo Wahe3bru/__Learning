@@ -284,4 +284,28 @@
 
 ---
 ### Tuesday 15 May 049
+- really learning some cool things doing this sprint
+- went through Dash videos
+- went to bed early
+
+---
+### Wednesday 16 May 050
+- researched and implemented new functions
+- cuppa tea by meNan
+- everybody in bed by 8
+
+---
+### Thursday 17 May 051 (mega level headache)
+- girls were easy at home
+- ate some banana frittas
+- twins amused themselves
+
+---
+### Friday 18 May 052
+- got some rest at home
+- got Jumuah at the boom
+- gave dullah and co a lift home
+
+---
+### Saturday 19 May 053
 -
