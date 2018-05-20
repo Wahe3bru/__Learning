@@ -308,4 +308,16 @@
 
 ---
 ### Saturday 19 May 053
+- got some reading done while Ruby at gym
+- visited Rhiede and got to rest abit
+- got mostly left alone to relax
+
+---
+### Sunday 20 May 054
+- got to sleep in
+- pleny of time to read
+- got a working model with great accuracy and f1 score
+
+---
+### Monday 21 MAY 055
 -
