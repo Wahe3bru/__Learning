@@ -59,3 +59,7 @@ $|end of string or until `\n`
 
 
 ## RegEx Substitution Basics
+
+#### sources
+https://www.dataquest.io/blog/regex-cheatsheet/
+https://pycon2016.regex.training/cheat-sheet
