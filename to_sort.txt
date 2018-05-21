@@ -24,6 +24,7 @@ https://github.com/RaRe-Technologies/gensim/blob/develop/tutorials.md
 
 ## Statistics
 https://www.khanacademy.org/math/statistics-probability
+https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 
 ## Time series
 https://www.youtube.com/watch?v=zmfe2RaX-14
@@ -38,6 +39,9 @@ https://github.com/Acrotrend/awesome-dash
 https://github.com/zipfian/git-it
 
 ## Machine Learning
+https://sebastianraschka.com/notebooks/python-notebooks.html
+https://chadwgardner.com/resources/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com
+
 ### Pipelines & FeatureUnion
 http://michelleful.github.io/code-blog/2015/06/20/pipelines/
 https://github.com/zipfian/pipelines_and_featureunions
