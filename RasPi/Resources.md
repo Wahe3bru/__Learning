@@ -4,3 +4,6 @@ https://projects.raspberrypi.org/en/projects?technologies[]=electronic-component
 https://picamera.readthedocs.io/en/release-1.12/recipes2.html
 https://projects.raspberrypi.org/en/projects/the-all-seeing-pi/27
 https://callrnerds.com/raspberry-pi-photo-booth
+
+## Netflix
+https://thepi.io/how-to-watch-netflix-on-the-raspberry-pi/
