@@ -320,4 +320,40 @@
 
 ---
 ### Monday 21 MAY 055
+- tried Arms demo (1v1) with a colleague
+- 3 man mk8 - it was good
+- general feeling of learning alot
+
+---
+### Tuesday 22 May 056
+- mk8 morning :)
+- headache but went to bed early
+- some good teamwork going on
+
+---
+### Wednesday 23 May 057
+- lengthy convo with a colleague
+- everybody went to bed early
+- min traffic, got to Ruby in time
+
+---
+### Thursday 24 May 058
+- twins were chilled alone with Haaj, waiting for me
+- had a peaceful time doing work at home
+- noticable lack of headache (for a period of time)
+
+---
+### Friday 25 May 059
+- visited Aanie n cuz
+- pretty easy day, watching Tig whilst waiting on models
+- girls were playing so lovely after school till supper
+
+---
+### Saturday 26 May 060
+- finished chapter on GridSearch and Cross Validation
+- got some work done with a colleague
+- found a fatal flaw in my model
+
+---
+### Sunday 27 May 061
 -
