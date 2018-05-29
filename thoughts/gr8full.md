@@ -356,4 +356,21 @@
 
 ---
 ### Sunday 27 May 061
+- frustration, but had someone to run my code
+- some nice supper
+
+---
+### Monday 28 May 062
+- lovely rain
+- no traffic to the airport
+- deadline extended
+
+---
+### Tuesday 29 063
+- redid model building using a totally new algorithm
+- managed to complete by deadline
+- talking with colleagues inspired me to start deep learning
+
+---
+### Wednesday 30 064
 -
