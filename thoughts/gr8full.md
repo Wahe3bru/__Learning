@@ -373,4 +373,10 @@
 
 ---
 ### Wednesday 30 064
+- presentation coming along nicely
+- got a great parking spot
+- kids taking care of plants
+
+---
+### Thursday 31 064
 -
