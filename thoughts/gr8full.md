@@ -378,5 +378,17 @@
 - kids taking care of plants
 
 ---
-### Thursday 31 064
+### Thursday 31 065
+- presentation went well
+- great convos with colleagues
+- got invited for drinks after presentations
+
+---
+### Friday 01 066
+- got a good team
+- gave insights into phd program
+- girls having fun at home
+
+---
+### Saturday 02 67
 -
