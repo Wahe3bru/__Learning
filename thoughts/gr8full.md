@@ -390,5 +390,17 @@
 - girls having fun at home
 
 ---
-### Saturday 02 67
+### Saturday 02 067
+- spent the day at home with the girls
+- lovely rain
+- Anni got to do shopping while i watched the kids at home
+
+---
+### Sunday 03 068
+- kids all enjoyed watching me play the Aces online trial
+- Fuzzy ate supper here
+- pizza galore!
+
+---
+### Monday 04 069 _Review week_
 -
