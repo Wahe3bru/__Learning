@@ -403,4 +403,10 @@
 
 ---
 ### Monday 04 069 _Review week_
--
+- making some new friends at the lab
+- intense headache subsided, but cos me a day to fast
+- girls were playing so lovely today with each other
+
+---
+### Tuesday 05 070
+- 
