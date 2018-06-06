@@ -16,6 +16,7 @@
 - NLP
 - Text Classification
 - Command line / bash
+- Git/Github
 - Imbalanced dataset
 - Time Series
 - - literally a series of articles
