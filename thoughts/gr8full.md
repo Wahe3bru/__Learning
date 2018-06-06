@@ -409,4 +409,16 @@
 
 ---
 ### Tuesday 05 070
-- 
+- interesting listening to colleagues individual projects
+- struggled to concentrate, but surrounded by a nice bunch of guys
+- appreciating the relaxed time to review some work
+
+---
+### Wednesday 06 071
+- met with supervisor, incoming info
+- invited for games night.
+- watched Hudaa play with kids and both parents
+
+---
+### Thursday 07 072
+-
