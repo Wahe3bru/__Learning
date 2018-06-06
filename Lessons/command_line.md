@@ -21,3 +21,10 @@ Needing to master command line to help in being more proficient in DatSci.
 `ls -R` entire contents of directory (recursively)
 
 `clear` clears the screen
+
+
+
+---
+## bash
+http://mlwhiz.com/blog/2015/10/09/shell_basics_for_data_science/
+http://mlwhiz.com/blog/2015/10/11/shell_basics_for_data_science_2/
