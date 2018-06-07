@@ -1,5 +1,11 @@
 # DatViz
 
+##### Current project:
+Movies dashboard - Top 200 movies 1986 - 2017<br>
+[files](/Users/wahe3bru/Documents/_Projects/Plotly-Dashboards-with-Dash/_Projects/movies)
+
+---
+
 learn the following:
 - colors
 - layout
