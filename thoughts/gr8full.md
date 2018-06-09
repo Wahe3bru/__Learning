@@ -420,5 +420,17 @@
 - watched Hudaa play with kids and both parents
 
 ---
-### Thursday 07 072
+### Thursday 07 072 :sushi:
+- filled up on sushi was delish
+- very early night
+- took the boys for haircut
+
+---
+### Friday 08 073
+- got a good lineup for the upcoming sprint
+- had Fuzzy and kids over for supper
+- lovely rain the night into the early morning
+
+---
+### Saturday 09 074
 -
