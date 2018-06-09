@@ -366,71 +366,71 @@
 - deadline extended
 
 ---
-### Tuesday 29 063
+### Tuesday 29 May 063
 - redid model building using a totally new algorithm
 - managed to complete by deadline
 - talking with colleagues inspired me to start deep learning
 
 ---
-### Wednesday 30 064
+### Wednesday 30 May 064
 - presentation coming along nicely
 - got a great parking spot
 - kids taking care of plants
 
 ---
-### Thursday 31 065
+### Thursday 31 May 065
 - presentation went well
 - great convos with colleagues
 - got invited for drinks after presentations
 
 ---
-### Friday 01 066
+### Friday 01 June 066
 - got a good team
 - gave insights into phd program
 - girls having fun at home
 
 ---
-### Saturday 02 067
+### Saturday 02 June 067
 - spent the day at home with the girls
 - lovely rain
 - Anni got to do shopping while i watched the kids at home
 
 ---
-### Sunday 03 068
+### Sunday 03 June 068
 - kids all enjoyed watching me play the Aces online trial
 - Fuzzy ate supper here
 - pizza galore!
 
 ---
-### Monday 04 069 _Review week_
+### Monday 04 June 069 _Review week_
 - making some new friends at the lab
 - intense headache subsided, but cos me a day to fast
 - girls were playing so lovely today with each other
 
 ---
-### Tuesday 05 070
+### Tuesday 05 June 070
 - interesting listening to colleagues individual projects
 - struggled to concentrate, but surrounded by a nice bunch of guys
 - appreciating the relaxed time to review some work
 
 ---
-### Wednesday 06 071
+### Wednesday 06 June 071
 - met with supervisor, incoming info
 - invited for games night.
 - watched Hudaa play with kids and both parents
 
 ---
-### Thursday 07 072 :sushi:
+### Thursday 07 June 072 :sushi:
 - filled up on sushi was delish
 - very early night
 - took the boys for haircut
 
 ---
-### Friday 08 073
+### Friday 08 June 073
 - got a good lineup for the upcoming sprint
 - had Fuzzy and kids over for supper
 - lovely rain the night into the early morning
 
 ---
-### Saturday 09 074
+### Saturday 09 June 074
 -
