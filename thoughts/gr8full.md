@@ -433,4 +433,52 @@
 
 ---
 ### Saturday 09 June 074
+- late sleep (until gymnastics)
+- got some reading done on datsci txtbk
+- easy day, got to rest (got a cold)
+
+---
+### Sunday 10 June 075
+- sick, but feeling better already
+- remembered a family func with the uncles
+- supper at bro-in-law
+
+---
+### Monday 11 June 076
+- official start of new sprint
+- lots of interesting ideas on predicting the winners
+- team name decided
+
+---
+### Tuesday 12 June 077
+- Pooled our datasets for the Dashboard, should be sufficient
+- kept meNan company
+- girls slept by meNan
+
+---
+### Wednesday 13 June 078
+- First meeting with Supervisor, interesting ideas
+- Had a lovely chat with Kat
+- she sorted my AWS login issue :thumbs:
+
+---
+### Thursday 14 June 079
+- woke up with massive migraine, but could sleep most of it off
+- luckily the pain meds helped abit
+- moon sighted :moon:
+
+---
+### Friday 15 June 080
+- First Eidka in the BK, had the girls with
+- Lovely lunch with the family
+- Ended the night by Aani and cuz, got the Shayk there
+
+---
+### Saturday 16 June 081
+- taught a lesson on saving/spending money
+- easy day, played with kids
+- watched a movie with Annie
+
+---
+### Sunday 17 June 082
 -
