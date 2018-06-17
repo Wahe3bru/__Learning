@@ -481,4 +481,10 @@
 
 ---
 ### Sunday 17 June 082
+- dad breakfast with the family
+- couple matches of Splatoon2
+-
+
+---
+### Monday 18 June 083
 -
