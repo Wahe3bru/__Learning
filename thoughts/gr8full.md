@@ -483,8 +483,20 @@
 ### Sunday 17 June 082
 - dad breakfast with the family
 - couple matches of Splatoon2
--
+- some alone time to complete some work
 
 ---
 ### Monday 18 June 083
+- gave most of my cake to the car quards, who enjoyed it
+- fetched the girls early which they had wanted unbeknownst to me
+- started pythonhow challenge, getting help from discord chat
+
+---
+### Tuesday 19 June 084
+- Good news from Ruby's teacher
+- took twins for a lovely walk to fetch Ruby
+- painting fun
+
+---
+### Wednesday 20 June 085
 -
