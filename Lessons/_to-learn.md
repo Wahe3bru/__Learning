@@ -15,7 +15,8 @@
 - RegEx
 - NLP
 - Text Classification
-- Command line / bash
+- [x]Command line 
+- [x] Bash
 - Git/Github
 - Imbalanced dataset
 - Time Series
