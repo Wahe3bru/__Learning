@@ -500,3 +500,27 @@
 ---
 ### Wednesday 20 June 085
 -
+
+---
+### Thursday 21 June 086
+- first ride to work since the 6 week hiatus
+- team mate completed most of the Dashboard
+-
+
+---
+### Friday 22 June 087
+- shared with a new colleague a poisson model example that he is also using. Hopefully we can compare models
+- super easy ride on mtb than with foldup due to construction on the roads
+- fell asleep early, over 8.5 hours sleep!
+
+---
+### Saturday 23 June 088
+- got time to solve a big part of my fifa model
+- got to play some splatfest
+- watched Valerian with Ruby
+
+---
+### Sunday 24 June 089
+- gifted our old couch
+- Ruby's friend took her an outing
+-
