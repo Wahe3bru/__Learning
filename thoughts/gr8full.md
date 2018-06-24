@@ -523,4 +523,8 @@
 ### Sunday 24 June 089
 - gifted our old couch
 - Ruby's friend took her an outing
+- very peaceful evening, watched a movie
+
+---
+### Monday 25 June 090
 -
