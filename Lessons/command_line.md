@@ -25,6 +25,4 @@ Needing to master command line to help in being more proficient in DatSci.
 
 
 ---
-## bash
-http://mlwhiz.com/blog/2015/10/09/shell_basics_for_data_science/
-http://mlwhiz.com/blog/2015/10/11/shell_basics_for_data_science_2/
+see [Bash](Bash.md)
