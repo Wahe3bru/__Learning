@@ -60,7 +60,7 @@ eg. `cat data.txt | tr '|' ',' | head -4`
 #### Sum of a column in a file
 `awk`find the sum of a column. Divide it by the number of lines and you can get the mean.
 `cat data.txt | awk -f "|" '{sum +=$5} END { printf sum}'`
-
+[further uses for `awk`](http://mlwhiz.com/blog/2015/10/11/shell_basics_for_data_science_2/)
 #### Find files in a directory
 eg find all .txt files that _start with lowercase h_ `find . -name "h*.txt"`
 
