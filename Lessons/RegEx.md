@@ -63,3 +63,4 @@ $|end of string or until `\n`
 #### sources
 https://www.dataquest.io/blog/regex-cheatsheet/
 https://pycon2016.regex.training/cheat-sheet
+https://docs.python.org/3/library/re.html
