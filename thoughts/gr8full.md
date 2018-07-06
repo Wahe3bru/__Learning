@@ -526,5 +526,17 @@
 - very peaceful evening, watched a movie
 
 ---
-### Monday 25 June 090
+### Thursday 5 July 090
+- got most of my project done
+- spoke to someone new about chillhop and music production
+- had a nice social meeting after hours
+
+---
+### Friday 6 July 091
+- got enough sleep
+- finished most of what i could and handed in
+- made it to the sequel lecture
+
+---
+### Saturday 7 July 092
 -
