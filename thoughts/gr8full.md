@@ -539,4 +539,16 @@
 
 ---
 ### Saturday 7 July 092
+- got a coupla splats in
+- helped fuzzy move
+- assembled 2 beds
+
+---
+### Sunday 8 July 093
+- got to sleep late
+- girls enjoyed their swim without having to go out
+- Nanas bday cake and tea
+
+---
+### Monday 0 July 094
 -
