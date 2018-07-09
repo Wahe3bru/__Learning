@@ -550,5 +550,11 @@
 - Nanas bday cake and tea
 
 ---
-### Monday 0 July 094
+### Monday 9 July 094
+- started working with a great team on a real project
+- letting go of retalliating against idiot drivers
+- watching kids choose creativity and teamwork over watching tv
+
+---
+### Tuesday 10 July 095
 -
