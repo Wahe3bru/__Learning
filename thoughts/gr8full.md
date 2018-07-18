@@ -556,5 +556,9 @@
 - watching kids choose creativity and teamwork over watching tv
 
 ---
-### Tuesday 10 July 095
+### Wednesday 18 July 095
+- learning alot during intern
+- avoided being run over by taxi
 -
+
+---
