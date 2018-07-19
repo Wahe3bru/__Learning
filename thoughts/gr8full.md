@@ -556,9 +556,29 @@
 - watching kids choose creativity and teamwork over watching tv
 
 ---
-### Wednesday 18 July 095
+### Monday 16 095
+- made a little effort and learned something useful
+- happy to finally use an unique skill to help others
+- i feel like i can add more value on projects
+
+---
+### Tuesday 17 July 096
+- got my first contribution to a local cause accepted and merged on github
+- happy for the opportunity to learn from pros in the field
+- working late not a problem cos bike != traffic :)
+
+---
+### Wednesday 18 July 097
 - learning alot during intern
 - avoided being run over by taxi
+- being tested has made me realised how good my programming has become
+
+---
+### Thursday 19 July 098
+- trusted my gut and avoided being rear-ended by a bus
+- I am so happy commuting by bike, can't handle sitting in traffic
 -
 
 ---
+### Friday 20 July 099
+-
