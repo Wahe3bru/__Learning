@@ -582,3 +582,13 @@
 ---
 ### Friday 20 July 099
 -
+
+---
+### Wednesday 25 July 101
+- I have a facilitator that can help me with my portfolio and job prep
+- I have quite an awesome team, hopefully it works out well
+- I discovered another data viz tool
+
+---
+### Thursday 26 July 102
+- 
