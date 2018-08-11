@@ -590,5 +590,7 @@
 - I discovered another data viz tool
 
 ---
-### Thursday 26 July 102
-- 
+### Saturday 11 August 102
+- got to practice the short form, abit rusty
+- spent the day with kids, indoors but no fighting
+- seems like everyones health++
