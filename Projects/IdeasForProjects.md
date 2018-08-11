@@ -1,6 +1,7 @@
 # Ideas for proposed projects to  demonstrate acquired skills
 
 ## Visualisation
+ cool [website for colour themes](https://coolors.co)
 ### Dash
 ##### Fire Incidence and Response Times
 - [Emergency response times (2014-2017)](http://web1.capetown.gov.za/web1/opendataportal/DatasetDetail?DatasetName=Emergency%20response%20times)
