@@ -594,3 +594,13 @@
 - got to practice the short form, abit rusty
 - spent the day with kids, indoors but no fighting
 - seems like everyones health++
+
+---
+### Sunday 12 August 103
+- I love that each girl can easily express their individuality
+- There are things that can't be shared with the world, but enjoyed personally
+- I am greatful to help out in something really good, and at the same time raising my game
+
+---
+### Monday 13 August 104
+-
