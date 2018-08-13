@@ -7,6 +7,7 @@
 - - [x] Linear Models
 - - [ ] Neural Networks (Deep Learning)
 - - [ ] Naive Bayes Classifiers
+- Strings and formatting
 - Pipeline and GridSearchCV
 - - k-fold and train, test, split cross validation
 - Metrics
@@ -15,7 +16,7 @@
 - RegEx
 - NLP
 - Text Classification
-- [x]Command line 
+- [x]Command line
 - [x] Bash
 - Git/Github
 - Imbalanced dataset
