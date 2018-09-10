@@ -27,3 +27,5 @@ Needing to master command line to help in being more proficient in DatSci.
 ---
 see [Bash](Bash.md)
 https://www.datascienceatthecommandline.com/
+
+[shell](https://www.shellscript.sh/variables1.html)
