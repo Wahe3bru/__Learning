@@ -24,3 +24,6 @@ learn the following:
 ## Courses
 - learn d3
 https://www.udacity.com/course/data-visualization-and-d3js--ud507
+
+- dash
+https://pythonprogramming.net/interactive-interface-data-visualization-application-dash-python-tutorial/?completed=/data-visualization-application-dash-python-tutorial-introduction/
