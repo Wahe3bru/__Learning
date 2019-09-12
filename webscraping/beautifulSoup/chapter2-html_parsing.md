@@ -29,12 +29,32 @@ advisable for it to be used last - to extract the data.
    `title = bs.find(id='title')` or `quotes = bs.find_all(class_='quote')`
 
 #### Navigating HTML trees
+__Note:__ There are many ways to target a specific tag, and some might be easier than others. It is best to make your selections as specific as possible so that your code wont break when minor changes are made to the website. To make scrapers more robust, making it as specific as possible by taking advantage of tag attributes whenever possible.
 ##### children and descendants
-
+_children_ are exactly one tag below a parent, whereas descendants can be any level below the parent.
+BeautifulSoup functions will always deal with descendants of the selected tag.
+eg. `bs4.div.findall("img)` finds the first `div` tag, then retrieves all the `img` tags that are descendants of that `div`. To only retrieve the children - use the `.children` tag
+`bs4.div.findall("img)`
 ##### siblings
-
+Note if you get siblings of an object, the object itself will not be included.
+`.next_siblings` returns all the same tags on that level, excluding the original tag. This makes it easy to scrape data from tables. 
+eg `bsObj.find("table",{"id":"giftList"}).tr.next_siblings` will return a list of each row in the table, but because `.next_siblings` was called on the title row, the first was omitted (as it can't be siblings with itself).
+Similarly `.previous_siblings` can be helpful if the easily selectable tag is the last tag of its siblings.
+`next_sibling` and `previous_sibling` returns a single tag.
 ##### parents
+`.parents` and `.parent` are the functions for finding parent/s of a tag.
+Most approaches tackle scraping the website from the top down, but sometimes it might be easier to target a tag and getting the parent would help in retrieving the relevant data.<br>
 
+The example in the book shows targeting the image (1), then selecting the `parent` (2), selecting the `previous_sibling` (3), and finally extracting the `text` within that tag "$15.00"
+```html
+<tr>
+  <td>
+  <td>
+  <td>(3)
+    “$15.00” (4)
+  s<td> (2)
+    <img src=”../img/gifts/img1.jpg">(1)
+```
 ---
 
   ### Regular Expressions
