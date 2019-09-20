@@ -81,8 +81,14 @@ interpolation methods like _forward fill_ can also be used:
 adding a limit to how far to fill:
 `df.fillna(method='bfill', limit=3)`
 
-#### Methods of filling Missing data
-- filling with a constant
-- filling with mean/median
-- interpolation
-- adding a missing data (boolean) column
+---
+
+#### Methods of handling Missing data
+- Complete Case Analysis or "list-wise deletion"
+- mean/median imputaion
+- Arbitary value imputation
+- End distribution imputation
+- Frequent category imputation
+- Missing category imputation
+- Random sample imputation
+- Missing indicator
