@@ -88,6 +88,26 @@ Departure: AER Destination: CBD
 Date: 06NOV
 
 ### Alternation and Non-capturing groups
+__Alternation__<br>
+- using paranthesis and pipe operator to group optional characters
+
+Extracting the number of girls or boys using the pipe operator, one would intuitively use `r'\d\sgirls|boys'`
+_gotcha:_
+`|` compares everything to the left of it with everything to the right of it, ie "<number> girls" OR "boys"
+to get the result we want we can use parenthesis to group optional characters: `r'(\d)\s(girls|boys)'` <br>
+    which will return a 2-tuple list with the number (\d) and the gender(girls|boys)
+
+__Non-capturing groups__<br>
+- used when we want to match but not capture group
+- - the group will not be backreferenced
+- add `?:` to the group (?:regex_pattern)
+
+__Combining both alteration and non-capturing groups__
+If we want to extract the (number) day from a string but not the year, we can combine the alternation trick with the non-capturing group as we are only interested in the number
+```python
+string = "Today is the 24th of September 2019, the last recorded date was the 23rd of August"
+re.findall(r'('\d+)(?:th|rd|st|nd)', string)
+```
 
 ### Backreferences
 
