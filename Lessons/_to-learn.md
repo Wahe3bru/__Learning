@@ -13,10 +13,10 @@
 - Metrics
 - - Regression - adj, R^2, MSE, others
 - - Classification - confusion matrix, accuracy report, ROC, AUC
-- RegEx
+- [x] RegEx
 - NLP
 - Text Classification
-- [x]Command line
+- [x] Command line
 - [x] Bash
 - Git/Github
 - Imbalanced dataset
