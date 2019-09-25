@@ -57,7 +57,8 @@ $|end of string or until `\n`
 - which can be used for further analysis
 - used for organising data
 
-example: Extracting flight information from an email body containing boarding pass information.
+example:
+Extracting flight information from an email body containing boarding pass information.
 "Here you have your boarding pass LA4214 AER-CDB 06NOV"
 ```python
 # Import re
@@ -74,6 +75,11 @@ print("Airline: {} Flight number: {}".format(flight_matches[0][0], flight_matche
 print("Departure: {} Destination: {}".format(flight_matches[0][2], flight_matches[0][3]))
 print("Date: {}".format(flight_matches[0][4]))
 ```
+returns:
+Airline: LA Flight number: 4214
+Departure: AER Destination: CBD
+Date: 06NOV
+
 ### Alternation and Non-capturing groups
 
 ### Backreferences
