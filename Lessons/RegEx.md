@@ -9,6 +9,10 @@ a|only `a`
 `\\`| \
 `\*`|* character
 
+The `.` (dot) operator is useful when used in combination with other operators.
+example finding a 6 letter word that starts with w/W and ends in b:<br>
+`r'[w|W]....b'` would find Waheeb, wahe3b (even wahaab)
+
 ## Quantifyers
 pattern|matches
 ---|---
@@ -20,9 +24,11 @@ pattern|matches
 {,n}| up to n times
 {m,}| m or more times
 
-Note: adding `?` to either of the quantifiers including `?` makes their preference to less (ie non-greedy)
+Note: adding `?` to either of the quantifiers including `?` makes their preference to lazy (ie non-greedy)
 
 ## Character Classes and Sets
+The `[]` operator will find one instance of any character within the square brackets.
+
 pattern|match
 ---|---
 [0-6]|set of digits (0-6)
@@ -37,6 +43,7 @@ pattern|match
 \D|non-digits
 \s|spaces as well as `\n, \t, \r`
 \S|non white space characters
+
 
 `[(-+)]` characters become literal inside a set this matches to `(`,`-`,`+`, and `)`
 ## Anchors and Boundaries
@@ -87,6 +94,24 @@ Date: 06NOV
 ### Lookaround
 
 ## Symbolic Group Names
+
+## Regex Functions
+__findall(pattern, string)__<br>
+- takes in a string and returns a list of items matching the pattern
+- The  most used regex function (understandably)
+example:
+find all email adresses
+
+__search(pattern, string)__<br>
+- returns a location object of the first match
+example:
+search for codeword
+
+__sub(pattern, substitute_string, string)__<br>
+- similar to 'find and replace' functionality in text editors
+- very useful in NLP or to redact data in a documant
+example:
+redact telephone numbers
 
 ## RegEx Compilation Flags
 
