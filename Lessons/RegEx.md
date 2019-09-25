@@ -31,7 +31,6 @@ pattern|match
 [a-d]|a,b,c,d only
 [^a-d]|all lowercase letters besides a,b,c,d
 [a-dk-m]|a,b,c,d,k,l,m only
- |
 \w|alphanumeric characters including underscore
 \W|non word charater
 \d|digits (0-9)
