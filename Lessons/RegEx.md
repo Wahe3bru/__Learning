@@ -109,11 +109,40 @@ string = "Today is the 24th of September 2019, the last recorded date was the 23
 re.findall(r'('\d+)(?:th|rd|st|nd)', string)
 ```
 
+
+### Symbolic Group Names
+Captured groups are numbered, 0 referring to all groups captured, then incrimentally increasing for each captured group
+example:
+extract date from string:
+```python
+string = your next appointment will be on the 13/03/2020
+regex_date = r'((\d{2})/(d{2})/(d{4})'
+date_detail = re.findall(regex_date, string)
+print(date_detail.group(1)
+# 03
+print(date_detail.group(0)
+# 13/03/2020
+```
+note: `.group()` can only be used in `match` and `search` methods
+
+__named groups__
+we can name captured groups and access the group via the name
+```python
+string = your next appointment will be on the 13/03/2020
+date_detail = re.findall(r'(?P<day>\d{2})/(?P<month>d{2})/(?P<year>d{4})', string)
+print(date_detail.group(day)
+# 13
+print(date_detail.group(0)
+# 13/03/2020
+```
 ### Backreferences
+reference a previously captured group you can use `\1` to refernce first group, for example
+`match_tag =  re.match(r"<(\w+)>.*?</\1>", string)` the first group captures the tag inside the <>, then to check if their is a closing tag we backreference the captured group (note the closing tag for html has a preceding `/`)
+
+to reference a named group `(?P<named>.*)` we use `?P=named`
 
 ### Lookaround
 
-## Symbolic Group Names
 
 ## Regex Functions
 __findall(pattern, string)__<br>
@@ -133,8 +162,15 @@ __sub(pattern, substitute_string, string)__<br>
 example:
 redact telephone numbers
 
-## RegEx Compilation Flags
+__compile(pattern)__
+Compile a regular expression pattern into a regular expression object, using re.compile() and saving the resulting regular expression object for reuse is more efficient when the expression will be used several times in a single program.
 
+__split(pattern, string, maxsplit=0)__
+Split string by the occurrences of pattern. If capturing parentheses are used in pattern, then the text of all groups in the pattern are also returned as part of the resulting list
+
+## RegEx Compilation Flags
+- `re.IGNORECASE`: Match uppercase and lowercase characters interchangeably
+- `re.VERBOSE`: Ignore whitespace characters and allow `#` comments
 
 ## RegEx Substitution Basics
 
