@@ -76,7 +76,7 @@ regex = r"([A-Z]{2})(\d{4})\s([A-Z]{3})-([A-Z]{3})\s(\d{2}[A-Z]{3})"
 
 # Find all matches of the flight information
 flight_matches = re.findall(regex, flight)
-    
+
 #Print the matches
 print("Airline: {} Flight number: {}".format(flight_matches[0][0], flight_matches[0][1]))
 print("Departure: {} Destination: {}".format(flight_matches[0][2], flight_matches[0][3]))
@@ -142,8 +142,29 @@ reference a previously captured group you can use `\1` to refernce first group, 
 to reference a named group `(?P<named>.*)` we use `?P=named`
 
 ### Lookaround
+to confirm if a subpattern is ahead or behind the pain pattern
 
+__look ahead__
+using a non capturing group, checks that the first expression is followed by the look ahead expression, if true, returns the first expression
+- positive look ahead (true if look ahead pattern found) `(?=regex_pattern)`
+- negative look ahead (true if look ahead pattern not found) `(?!regex_pattern)`
+```python
+log = "copied files: cat.txt successful dog.md successful bird.csv error"
+# find successfully coppied files
+files_copied = re.findall(r'\w.\w(?=\ssuccessful)', log)
+# find not copied
+files_not_copied = re.findall(r'\w.w\(?!ssuccessful', log)
+```
 
+__look behind__
+using a non capturing group, checks that the first expression is preceded by the look behind expression, if true, returns expression after look behind.
+- positive look behind (true if look behind pattern found) `(?<=regex_pattern)`
+- negative look behind (true if look behind pattern not found) `(?<!regex_pattern)`
+```python
+family = parent: Annie Aghers kid: Ruby parent: Wahe3b Aghers kid: Lu'lu
+parents = re.findall(r'(?<=parent:\s)\w\s\w')
+not_kids = re.findall(r'(?<!kid:\s)\w\s\w')
+```
 ## Regex Functions
 __findall(pattern, string)__<br>
 - takes in a string and returns a list of items matching the pattern
