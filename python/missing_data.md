@@ -149,6 +149,38 @@ A more apt imputation would be to use methods like linear or quadratic imputatio
 - Missing indicator
 
 #### Advanced imputation techniques
+KNN imputation
+Datasets always have features which are correlated. Hence, it becomes important to consider them as a factor for imputing missing values. Machine learning models use features in the DataFrame to find correlations and patterns and predict a selected feature.
+
 fancyimpute
 - KNN imputation
+One of the simplest and most efficient models is the K Nearest Neighbors. It finds 'K' points most similar to the existing data points to impute missing values.
+```python
+# Import KNN from fancyimpute
+from fancyimpute import KNN
+
+# Copy diabetes to diabetes_knn_imputed
+diabetes_knn_imputed = diabetes.copy(deep=True)
+
+# Initialize KNN
+knn_imputer = KNN()
+
+# Impute using fit_tranform on diabetes
+diabetes_knn_imputed.iloc[:, :] = knn_imputer.fit_transform(diabetes)
+```
+
 - MICE imputation
+The IterativeImputer performs multiple regressions on random samples of the data and aggregates for imputing the missing values. You will use the diabetes DataFrame for performing this imputation.
+```python
+# Import IterativeImputer from fancyimpute
+from fancyimpute import IterativeImputer
+
+# Copy diabetes to diabetes_mice_imputed
+diabetes_mice_imputed = diabetes.copy(deep=True)
+
+# Initialize IterativeImputer
+mice_imputer = IterativeImputer()
+
+# Impute using fit_tranform on diabetes
+diabetes_mice_imputed.iloc[:, :] = mice_imputer.fit_transform(diabetes)
+```
